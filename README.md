@@ -1,4 +1,4 @@
-<h1 align="center">👾 Olá, eu sou o [Seu Nome]! 🚀</h1>
+<h1 align="center">👾 Olá, eu sou o Eduardo! 🚀</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&width=500&lines=Automação+%7C+Back-end+%7C+Cloud;Pythonista+em+ação!+🐍;Rust+em+treinamento+🦀" />
